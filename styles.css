@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: darkblue;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+#lista-tareas{
+
+    margin-left: 41%;
+    margin-top: 5%;
+    font-size: 20px;
+
+}
+
+footer {
+
+    background-color: lightcyan;
+    padding: 10px;
+    text-align: center;
+    margin-top: 4%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tarea {
+    margin-bottom: 10px;
+}
+
+.completada {
+    text-decoration: line-through;
+    color: #888;
+}
